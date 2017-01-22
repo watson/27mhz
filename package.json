@@ -1,7 +1,7 @@
 {
   "name": "27mhz",
   "version": "1.0.0",
-  "description": "Get the frequency in Hz for a given channel on the 27 MHz band",
+  "description": "Get the frequency in Hz for a given channel on the general use 27 MHz band",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
