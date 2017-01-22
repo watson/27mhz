@@ -1,7 +1,7 @@
 'use strict'
 
 var assert = require('assert')
-var channel = require('27mhz')
+var channel = require('./')
 
 assert.equal(channel(0), undefined)
 assert.equal(channel(1), 26965000)
