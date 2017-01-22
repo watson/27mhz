@@ -1,0 +1,35 @@
+{
+  "name": "27mhz",
+  "version": "0.0.0",
+  "description": "Get the frequency in Hz for a given channel on the 27 MHz band",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^8.6.0"
+  },
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watson/27mhz.git"
+  },
+  "keywords": [
+    "27",
+    "27mhz",
+    "hz",
+    "mhz",
+    "car",
+    "radio",
+    "channel",
+    "channels",
+    "color",
+    "colors"
+  ],
+  "author": "Thomas Watson Steen <w@tson.dk> (https://twitter.com/wa7son)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watson/27mhz/issues"
+  },
+  "homepage": "https://github.com/watson/27mhz#readme"
+}
