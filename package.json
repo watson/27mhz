@@ -1,6 +1,6 @@
 {
   "name": "27mhz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the frequency in Hz for a given channel on the general use 27 MHz band",
   "main": "index.js",
   "dependencies": {},
@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/watson/27mhz#readme",
   "coordinates": [
-    55.77760513646856,
-    12.590170826983694
+    55.7773809,
+    12.59037
   ]
 }
